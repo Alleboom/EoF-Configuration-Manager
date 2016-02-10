@@ -1,0 +1,45 @@
+C:\Users\zacha46\Documents\Visual Studio 2012\Projects\EoF Configuration Manager\EoF Configuration Manager\bin\Debug\EoF Configuration Manager.exe.config
+C:\Users\zacha46\Documents\Visual Studio 2012\Projects\EoF Configuration Manager\EoF Configuration Manager\bin\Debug\EoF Configuration Manager.exe
+C:\Users\zacha46\Documents\Visual Studio 2012\Projects\EoF Configuration Manager\EoF Configuration Manager\bin\Debug\EoF Configuration Manager.pdb
+C:\Users\zacha46\Documents\Visual Studio 2012\Projects\EoF Configuration Manager\EoF Configuration Manager\bin\Debug\Caliburn.Micro.dll
+C:\Users\zacha46\Documents\Visual Studio 2012\Projects\EoF Configuration Manager\EoF Configuration Manager\bin\Debug\Caliburn.Micro.Platform.dll
+C:\Users\zacha46\Documents\Visual Studio 2012\Projects\EoF Configuration Manager\EoF Configuration Manager\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\zacha46\Documents\Visual Studio 2012\Projects\EoF Configuration Manager\EoF Configuration Manager\bin\Debug\MigraDoc.DocumentObjectModel.dll
+C:\Users\zacha46\Documents\Visual Studio 2012\Projects\EoF Configuration Manager\EoF Configuration Manager\bin\Debug\MigraDoc.Rendering.dll
+C:\Users\zacha46\Documents\Visual Studio 2012\Projects\EoF Configuration Manager\EoF Configuration Manager\bin\Debug\MigraDoc.RtfRendering.dll
+C:\Users\zacha46\Documents\Visual Studio 2012\Projects\EoF Configuration Manager\EoF Configuration Manager\bin\Debug\PdfSharp.Charting.dll
+C:\Users\zacha46\Documents\Visual Studio 2012\Projects\EoF Configuration Manager\EoF Configuration Manager\bin\Debug\PdfSharp.dll
+C:\Users\zacha46\Documents\Visual Studio 2012\Projects\EoF Configuration Manager\EoF Configuration Manager\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\zacha46\Documents\Visual Studio 2012\Projects\EoF Configuration Manager\EoF Configuration Manager\bin\Debug\Caliburn.Micro.xml
+C:\Users\zacha46\Documents\Visual Studio 2012\Projects\EoF Configuration Manager\EoF Configuration Manager\bin\Debug\Caliburn.Micro.Platform.xml
+C:\Users\zacha46\Documents\Visual Studio 2012\Projects\EoF Configuration Manager\EoF Configuration Manager\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\zacha46\Documents\Visual Studio 2012\Projects\EoF Configuration Manager\EoF Configuration Manager\bin\Debug\MigraDoc.DocumentObjectModel.xml
+C:\Users\zacha46\Documents\Visual Studio 2012\Projects\EoF Configuration Manager\EoF Configuration Manager\bin\Debug\MigraDoc.Rendering.xml
+C:\Users\zacha46\Documents\Visual Studio 2012\Projects\EoF Configuration Manager\EoF Configuration Manager\bin\Debug\MigraDoc.RtfRendering.xml
+C:\Users\zacha46\Documents\Visual Studio 2012\Projects\EoF Configuration Manager\EoF Configuration Manager\bin\Debug\PdfSharp.xml
+C:\Users\zacha46\Documents\Visual Studio 2012\Projects\EoF Configuration Manager\EoF Configuration Manager\bin\Debug\PdfSharp.Charting.xml
+C:\Users\zacha46\Documents\Visual Studio 2012\Projects\EoF Configuration Manager\EoF Configuration Manager\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\zacha46\Documents\Visual Studio 2012\Projects\EoF Configuration Manager\EoF Configuration Manager\bin\Debug\de\MigraDoc.DocumentObjectModel.resources.dll
+C:\Users\zacha46\Documents\Visual Studio 2012\Projects\EoF Configuration Manager\EoF Configuration Manager\bin\Debug\de\MigraDoc.Rendering.resources.dll
+C:\Users\zacha46\Documents\Visual Studio 2012\Projects\EoF Configuration Manager\EoF Configuration Manager\bin\Debug\de\MigraDoc.RtfRendering.resources.dll
+C:\Users\zacha46\Documents\Visual Studio 2012\Projects\EoF Configuration Manager\EoF Configuration Manager\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\zacha46\Documents\Visual Studio 2012\Projects\EoF Configuration Manager\EoF Configuration Manager\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\zacha46\Documents\Visual Studio 2012\Projects\EoF Configuration Manager\EoF Configuration Manager\obj\Debug\EoF Configuration Manager.csprojResolveAssemblyReference.cache
+C:\Users\zacha46\Documents\Visual Studio 2012\Projects\EoF Configuration Manager\EoF Configuration Manager\obj\Debug\Views\MainWindowView.baml
+C:\Users\zacha46\Documents\Visual Studio 2012\Projects\EoF Configuration Manager\EoF Configuration Manager\obj\Debug\Views\MainWindowView.g.cs
+C:\Users\zacha46\Documents\Visual Studio 2012\Projects\EoF Configuration Manager\EoF Configuration Manager\obj\Debug\App.g.cs
+C:\Users\zacha46\Documents\Visual Studio 2012\Projects\EoF Configuration Manager\EoF Configuration Manager\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\zacha46\Documents\Visual Studio 2012\Projects\EoF Configuration Manager\EoF Configuration Manager\obj\Debug\EoF Configuration Manager_MarkupCompile.cache
+C:\Users\zacha46\Documents\Visual Studio 2012\Projects\EoF Configuration Manager\EoF Configuration Manager\obj\Debug\EoF Configuration Manager_MarkupCompile.lref
+C:\Users\zacha46\Documents\Visual Studio 2012\Projects\EoF Configuration Manager\EoF Configuration Manager\obj\Debug\App.baml
+C:\Users\zacha46\Documents\Visual Studio 2012\Projects\EoF Configuration Manager\EoF Configuration Manager\obj\Debug\EoF Configuration Manager.g.resources
+C:\Users\zacha46\Documents\Visual Studio 2012\Projects\EoF Configuration Manager\EoF Configuration Manager\obj\Debug\EoF_Configuration_Manager.Properties.Resources.resources
+C:\Users\zacha46\Documents\Visual Studio 2012\Projects\EoF Configuration Manager\EoF Configuration Manager\obj\Debug\EoF Configuration Manager.csproj.GenerateResource.Cache
+C:\Users\zacha46\Documents\Visual Studio 2012\Projects\EoF Configuration Manager\EoF Configuration Manager\obj\Debug\EoF Configuration Manager.exe
+C:\Users\zacha46\Documents\Visual Studio 2012\Projects\EoF Configuration Manager\EoF Configuration Manager\obj\Debug\EoF Configuration Manager.pdb
+C:\Users\zacha46\Documents\Visual Studio 2012\Projects\EoF Configuration Manager\EoF Configuration Manager\obj\Debug\Views\UserControls\MachinesView.baml
+C:\Users\zacha46\Documents\Visual Studio 2012\Projects\EoF Configuration Manager\EoF Configuration Manager\obj\Debug\Views\UserControls\SelectedMachineSoftwareView.baml
+C:\Users\zacha46\Documents\Visual Studio 2012\Projects\EoF Configuration Manager\EoF Configuration Manager\obj\Debug\Views\UserControls\SoftwareView.baml
+C:\Users\zacha46\Documents\Visual Studio 2012\Projects\EoF Configuration Manager\EoF Configuration Manager\obj\Debug\Views\UserControls\MachinesView.g.cs
+C:\Users\zacha46\Documents\Visual Studio 2012\Projects\EoF Configuration Manager\EoF Configuration Manager\obj\Debug\Views\UserControls\SelectedMachineSoftwareView.g.cs
+C:\Users\zacha46\Documents\Visual Studio 2012\Projects\EoF Configuration Manager\EoF Configuration Manager\obj\Debug\Views\UserControls\SoftwareView.g.cs
